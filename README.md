@@ -8,7 +8,7 @@ I am a Junior Developer based in Indonesia. I enjoy working on various projects,
 
 ## Skills & Technologies
 
-php,phpstorm,java,js,py,instagram,grafana,discord,github,webstorm
+[![My Skills](https://skillicons.dev/icons?i=php,phpstorm,java,js,py,instagram,grafana,discord,github,webstorm&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
